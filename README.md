@@ -1,18 +1,42 @@
-# Bethel-alemseged-
-About Me
-Hi, I'm Bethel Alemseged
+# Hi, I'm Bethel Alemseged
 
-I am currently a Computer Science student at Hawassa University, Ethiopia.
+## About Me
 
-I have learned C++ and Java, and I have built a project on different semesters assignment, which helped me gain experience in programming and problem solving.
+I am a Computer Science student at Hawassa University, Ethiopia, with a passion for technology and continuous learning.
 
-Current Learning
-- I am currently learning Java both in class and by myself
-- I am also trying to figure out a little bit of Python
-- I am also learning about Git and Github
+I have experience with C++ and Java through university coursework and semester projects, which have strengthened my programming, problem-solving, and teamwork skills.
 
-Future Plans
-In the coming summer, I am planning to improve my skills in Java and Python and also learn more about Databases, which is very interesting for me.And do an actual Beginner project on Github. and to connect with people who will help me on this journey. 
+## Currently Learning
 
-About Me
-I am a learner and builder, and I hope to improve in all aspects of life.
+* HTML & CSS
+* JavaScript
+* TypeScript
+* React
+* UI/UX Design
+* Git & GitHub
+* PostgreSQL and Database Fundamentals
+
+
+## Goals
+
+My goal is to become a skilled Frontend Developer who builds modern, responsive, and user-friendly web applications.
+
+I also aim to deepen my knowledge of databases and contribute to database-related projects as I continue developing my skills.
+
+I enjoy learning new technologies, contributing to real-world projects, and collaborating with other developers. I am always looking for opportunities to improve my skills and grow as a software engineer.
+
+## Looking Ahead
+
+Over the next few months, I plan to:
+
+* Build and publish beginner to intermediate frontend projects.
+* Strengthen my understanding of databases and backend fundamentals.
+* Contribute to open-source and team projects.
+* Create a portfolio that showcases my growth and technical skills.
+
+## About Me
+
+I believe that learning is a lifelong journey. Every project, challenge, and mistake is an opportunity to grow, and I strive to become a better developer and a better person every day.
+
+Thank you for visiting my profile.
+

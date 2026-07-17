@@ -1,6 +1,6 @@
 # Bethel-alemseged-
 About Me
-Hi, I'm Bethel 
+Hi, I'm Bethel Alemseged
 
 I am currently a Computer Science student at Hawassa University, Ethiopia.
 

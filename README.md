@@ -1,4 +1,4 @@
-# bethel-alemseged-
+# Bethel-alemseged-
 About Me
 Hi, I'm Bethel 
 

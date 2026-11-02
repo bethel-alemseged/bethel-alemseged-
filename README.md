@@ -1,42 +1,124 @@
-# Hi, I'm Bethel Alemseged
+Hi, I'm Bethel Alemseged 👋
 
-## About Me
+Computer Science Student | Aspiring Software Engineer | Exploring Computer Science Research
 
-I am a Computer Science student at Hawassa University, Ethiopia, with a passion for technology and continuous learning.
+I'm a third-year Computer Science student at Hawassa University, Ethiopia, passionate about understanding how technology works and using it to solve real-world problems.
 
-I have experience with C++ and Java through university coursework and semester projects, which have strengthened my programming, problem-solving, and teamwork skills.
+I enjoy breaking complex problems into smaller, understandable steps, discovering patterns, and building solutions through code.
 
-## Currently Learning
+I'm currently strengthening my foundations in computer science while exploring algorithms, software engineering, databases, and intelligent decision-making systems.
 
-* HTML & CSS
-* JavaScript
-* TypeScript
-* React
-* UI/UX Design
-* Git & GitHub
-* PostgreSQL and Database Fundamentals
+🚀 Areas of Interest
 
+- Algorithms & Problem Solving: Data structures, algorithm design, computational complexity, and efficient solutions.
+- Software Development: Building practical applications and improving my frontend development skills.
+- Databases: Understanding how data is structured, stored, organized, and managed.
+- Artificial Intelligence: Exploring decision-making under uncertainty and computational models.
+- Computer Science Research: Connecting theoretical concepts with practical and interdisciplinary problems.
 
-## Goals
+🔬 Research & Internship Journey
 
-My goal is to become a skilled Frontend Developer who builds modern, responsive, and user-friendly web applications.
+I'm currently preparing for summer research internship opportunities, with a particular interest in algorithms, decision-making under uncertainty, and intelligent systems.
 
-I also aim to deepen my knowledge of databases and contribute to database-related projects as I continue developing my skills.
+One area I'm especially curious about is how computational models help agents make decisions when information is incomplete or the environment is uncertain.
 
-I enjoy learning new technologies, contributing to real-world projects, and collaborating with other developers. I am always looking for opportunities to improve my skills and grow as a software engineer.
+I'm exploring concepts such as:
 
-## Looking Ahead
+- Markov Decision Processes (MDPs)
+- Partially Observable Markov Decision Processes (POMDPs)
+- Bayesian Adaptive Markov Decision Processes (BAMDPs)
+- Interactive POMDPs (I-POMDPs)
 
-Over the next few months, I plan to:
+I'm also strengthening my mathematical, programming, and theoretical foundations to prepare for future research opportunities.
 
-* Build and publish beginner to intermediate frontend projects.
-* Strengthen my understanding of databases and backend fundamentals.
-* Contribute to open-source and team projects.
-* Create a portfolio that showcases my growth and technical skills.
+Current goal: Grow into a computer scientist and software engineer capable of contributing to meaningful research and building useful technology.
 
-## About Me
+🛠️ Technologies & Tools
 
-I believe that learning is a lifelong journey. Every project, challenge, and mistake is an opportunity to grow, and I strive to become a better developer and a better person every day.
+Programming Languages
 
-Thank you for visiting my profile.
+- Java
+- JavaScript
+- C++
 
+Web Development
+
+- React
+- HTML
+- CSS
+- Tailwind CSS
+
+Databases
+
+- SQL
+- MongoDB
+
+Development Tools
+
+- Git
+- GitHub
+- Visual Studio Code
+
+I'm continuously improving my technical skills through coursework, personal projects, collaboration, and hands-on practice.
+
+💻 Projects & Contributions
+
+Campus Hub
+
+Contributing to a university-focused marketplace and services platform as part of the UNA-HU Innovation Team.
+
+- Contributing to frontend development.
+- Building user interfaces using React.
+- Working on marketplace and services features.
+
+Personal Portfolio
+
+Building a personal portfolio to showcase my projects, technical skills, and growth as a developer.
+
+Learning & Practice Projects
+
+Exploring programming, algorithms, database systems, and software development through hands-on projects and experimentation.
+
+📚 Currently Learning
+
+As a third-year Computer Science student, I'm currently studying:
+
+- Operating Systems
+- Design and Analysis of Algorithms
+- Advanced Programming
+- Software Engineering
+- Numerical Analysis
+- Microprocessors and Assembly Language
+
+Outside my university coursework, I'm also developing my Python skills and exploring its applications in computer science and research.
+
+🌱 Beyond Coding
+
+I believe growth happens through curiosity, consistency, collaboration, and a willingness to learn.
+
+I'm interested in meaningful projects, sharing knowledge, working with others, and using technology to solve problems that matter.
+
+My faith in Jesus Christ is an important part of my life and guides my purpose, values, and journey.
+
+"I am the way and the truth and the life. No one comes to the Father except through me." — John 14:6
+
+🎯 Looking Ahead
+
+I'm working toward becoming a strong computer scientist with foundations in both software engineering and research.
+
+I'm particularly interested in:- Research internships and academic opportunities.
+- Open-source contributions.
+- Collaborative software projects.
+- Algorithms and intelligent systems.
+- Opportunities to learn from and contribute to the global computer science community.
+
+🤝 Let's Connect
+
+I'm always open to connecting with fellow developers, students, researchers, and people who enjoy learning and building meaningful things.
+
+- LinkedIn: "Bethel Alemseged" (https://www.linkedin.com/in/bethel-alemseged/)
+- GitHub: "@bethel-alemseged" (https://github.com/bethel-alemseged)
+
+---
+
+Still learning. Still building. Still growing. One commit at a time. 🌱
